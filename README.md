@@ -8,7 +8,8 @@ This project aimed to classify news articles into four categories: World, Sports
 By combining these EDA techniques with the Naive Bayes classifier, the project sought to develop a robust and accurate model capable of classifying news articles into their respective categories based on their textual content.
 
 # Dataset
-The AG News dataset is a popular benchmark for text classification tasks, consisting of news articles categorized into four distinct domains: World, Sports, Business, and Science/Technology. This dataset provides a valuable resource for researchers to evaluate the performance of various text classification algorithms and models. With its balanced distribution of articles across categories, large dataset size, and real-world relevance, AG News is widely used in applications such as sentiment analysis, topic modeling, and information retrieval. However, it's important to consider potential challenges like class imbalance and data quality when working with this dataset.
+The AG News dataset is a popular benchmark for text classification tasks, consisting of news articles categorized into four distinct domains: World, Sports, Business, and Science/Technology. This dataset provides a valuable resource for researchers to evaluate the performance of various text classification algorithms and models. With its balanced distribution of articles across categories, large dataset size, and real-world relevance, AG News is widely used in applications such as sentiment analysis, topic modeling, and information retrieval. However, it's important to consider potential challenges like class imbalance and data quality when working with this dataset. <br>
+**Link:** https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
 
 # Objective
 
